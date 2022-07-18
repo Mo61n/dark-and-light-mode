@@ -1,3 +1,3 @@
 # preview
 
-https://dark-and-light-mode
+https://github/dark-and-light-mode
